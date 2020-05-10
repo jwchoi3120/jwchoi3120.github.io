@@ -33,14 +33,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/IMG_1853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_1866.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_1876.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beauty_1587186364689.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beauty_1587192783065.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beauty_1587192788420.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beauty_1587197904980.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beauty_1587203206418.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstdate.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstdate.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +71,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\images" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
     </key>
   </component>
@@ -96,7 +92,7 @@
       <workItem from="1589020879498" duration="562000" />
       <workItem from="1589021500787" duration="8463000" />
       <workItem from="1589091546808" duration="2490000" />
-      <workItem from="1589102928730" duration="1432000" />
+      <workItem from="1589102928730" duration="1741000" />
     </task>
     <servers />
   </component>
