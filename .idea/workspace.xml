@@ -33,7 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_1924.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG_1923.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589020878048</updated>
       <workItem from="1589020879498" duration="562000" />
-      <workItem from="1589021500787" duration="3866000" />
+      <workItem from="1589021500787" duration="4135000" />
     </task>
     <servers />
   </component>
@@ -106,6 +106,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589074952948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589074952948" />
     <state x="350" y="213" key="SettingsEditor" timestamp="1589021429960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
