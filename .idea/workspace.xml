@@ -32,7 +32,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="" />
+    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MSU/freshman.html" beforeDir="false" afterPath="$PROJECT_DIR$/freshman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,10 +73,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\portfolio" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\couple" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\images" />
-      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
@@ -93,7 +96,7 @@
       <workItem from="1589021500787" duration="8463000" />
       <workItem from="1589091546808" duration="2490000" />
       <workItem from="1589102928730" duration="3692000" />
-      <workItem from="1592052926299" duration="2781000" />
+      <workItem from="1592052926299" duration="3097000" />
     </task>
     <servers />
   </component>
