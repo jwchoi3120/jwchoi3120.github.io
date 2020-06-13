@@ -33,59 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sophomore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20181124_121424.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20181230_201641.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190104_233204.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190128_150033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190201_185312.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190303_131246.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190303_193138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190303_193154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170658.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170721.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170731.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170746.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170812.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190310_170832.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190322_193606.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190411_002611.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190417_104811.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/20190504_053416.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/2092E9C1-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/DSC950840.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/DSC950841.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/FB_IMG_1534343178892.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/FB_IMG_1534470042024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/FB_IMG_1534470143736.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/FB_IMG_1552273240920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG3835203484943633211.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG3956615974936451842.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG6863990079855827607.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG8457688953019757153.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG951171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG951303.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG953339.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG954631.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG954639.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG954643.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_0875.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_0910.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_0914.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20180829_141509_955.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20180914_184344_109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20181014_185925_192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20181225_015654_549.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20190101_003008_867.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20190101_003008_869.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20190310_163631_389.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/IMG_20190310_163631_393.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/Screenshot_20180825-130943_Instagram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/Screenshot_20190310-134557_Instagram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/Screenshot_20190310-160311_Instagram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sophomoreImages/Screenshot_20190504-201220_Facebook.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshman.html" beforeDir="false" afterPath="$PROJECT_DIR$/freshman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +95,7 @@
       <workItem from="1589021500787" duration="8463000" />
       <workItem from="1589091546808" duration="2490000" />
       <workItem from="1589102928730" duration="3692000" />
-      <workItem from="1592052926299" duration="5442000" />
+      <workItem from="1592052926299" duration="5915000" />
     </task>
     <servers />
   </component>
