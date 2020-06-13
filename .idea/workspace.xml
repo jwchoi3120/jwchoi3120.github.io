@@ -33,8 +33,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MSU/freshman.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170821_192905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170829_173111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170831_182918.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170902_113835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170902_114137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170909_145741.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20170909_152438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20171119_161125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-00-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-01-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-03-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-03-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-03-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-03-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-04-50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-06-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-06-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-07-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-07-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-07-47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-07-57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-11_11-12-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/2018-03-13_09-58-32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180127_162342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180127_164949.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180307_175202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180309_161344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180309_162041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180309_163559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180311_152324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180501_182049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/20180508_130216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/FullSizeR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG951333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG956627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG956639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG958075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170819_131028_700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170819_131028_701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170820_195018_115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170821_114255_775.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170822_202807_829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170825_091539_865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170902_113041_678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170902_155534_350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20170905_202238_035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20171029_163204_720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20171029_172213_521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20171129_203933_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20180307_135741_209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/IMG_20180307_185312_760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/Image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/Screenshot_20171012-024013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/Screenshot_20180311-225151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshmanImages/Snapchat-1486768072.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_1923.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG_1923.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple.html" beforeDir="false" afterPath="$PROJECT_DIR$/couple/couple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstdate.html" beforeDir="false" afterPath="$PROJECT_DIR$/couple/firstdate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tomchoi.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/tomchoi.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/어피치5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/어피치5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/캡처.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/캡처.PNG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +137,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\portfolio" />
+      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\couple" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\images" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
     </key>
@@ -94,7 +160,7 @@
       <workItem from="1589021500787" duration="8463000" />
       <workItem from="1589091546808" duration="2490000" />
       <workItem from="1589102928730" duration="3692000" />
-      <workItem from="1592052926299" duration="1123000" />
+      <workItem from="1592052926299" duration="2118000" />
     </task>
     <servers />
   </component>
