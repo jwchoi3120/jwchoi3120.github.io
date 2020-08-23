@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<!--
+	Hielo by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+<head>
+    <title>369 Game</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body class="subpage">
+
+<!-- Header -->
+<header id="header">
+    <div class="logo"><a href="index.html">Tom Choi's Website <span> 최종우 </span></a></div>
+    <a href="#menu">Menu</a>
+</header>
+
+<!-- Nav -->
+<nav id="menu">
+    <ul class="links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio / 자기소개서</a></li>
+        <li><a href="freshman.html">MSU(2017 - 18)</a></li>
+        <li><a href="sophomore.html">MSU(2018 - 19)</a></li>
+        <li><a href="junior.html">MSU(2019 - 20)</a></li>
+		<li><a href="coding.html">Coding Problems / 코딩 문제들</a></li>
+    </ul>
+</nav>
+
+<!-- One -->
+<section id="One" class="wrapper style3">
+    <div class="inner">
+        <header class="align-center">
+            <p>Problem / 문제</p>
+            <h2>369 Game / 369 게임</h2>
+        </header>
+    </div>
+</section>
+
+<!-- Two -->
+<section id="two" class="wrapper style2">
+    <div class="inner">
+        <div class="box">
+            <div class="content">
+                <h1>369 Game / 369 게임</h1>
+				<h3>게임이 끝난 숫자 N이 주어졌을 때, N 이전까지 박수를 친 횟수를 구하여라.<br><br>
+Find how many times you have clapped right before number 'N'.<br><br>
+예시 / Example
+<br>-------------<br><br>
+35가 주어지면, 박수를 친 횟수가 15가 된다. 3, 6, 9, 13, 16, 19, 23, 26, 29, 30, 31, 32, 33, 33(3이 두개니까 두번), 34<br><br>
+If input is 35, you have clapped 15 times before game ends. 3, 6, 9, 13, 16, 19, 23, 26, 29, 30, 31, 32, 33, 33(twice, because there is two threes in 33), 34 
+</h3><br><br><br><br><br><br>
+				<h1>
+					My answer / 나의 정답
+				</h1>
+				<div class="colorscripter-code" style="color:#f0f0f0;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; position:relative !important;overflow:auto"><table class="colorscripter-code-table" style="margin:0;padding:0;border:none;background-color:#272727;border-radius:4px;" cellspacing="0" cellpadding="0"><tr><td style="padding:6px;border-right:2px solid #4f4f4f"><div style="margin:0;padding:0;word-break:normal;text-align:right;color:#aaa;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:130%"><div style="line-height:130%">1</div><div style="line-height:130%">2</div><div style="line-height:130%">3</div><div style="line-height:130%">4</div><div style="line-height:130%">5</div><div style="line-height:130%">6</div><div style="line-height:130%">7</div><div style="line-height:130%">8</div><div style="line-height:130%">9</div><div style="line-height:130%">10</div><div style="line-height:130%">11</div><div style="line-height:130%">12</div><div style="line-height:130%">13</div></div></td><td style="padding:6px 0;text-align:left"><div style="margin:0;padding:0;color:#f0f0f0;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:130%"><div style="padding:0 6px; white-space:pre; line-height:130%">inp&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;input()</div><div style="padding:0 6px; white-space:pre; line-height:130%">clap&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#c10aff">0</span></div><div style="padding:0 6px; white-space:pre; line-height:130%">all_num&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;[]</div><div style="padding:0 6px; white-space:pre; line-height:130%"><span style="color:#ff3399">for</span>&nbsp;num&nbsp;<span style="color:#ff3399">in</span>&nbsp;<span style="color:#4be6fa">range</span>(<span style="color:#4be6fa">int</span>(inp)&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">-</span>&nbsp;<span style="color:#c10aff">1</span>):</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;all_num.append(num&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">+</span>&nbsp;<span style="color:#c10aff">1</span>)</div><div style="padding:0 6px; white-space:pre; line-height:130%"><span style="color:#ff3399">for</span>&nbsp;let&nbsp;<span style="color:#ff3399">in</span>&nbsp;all_num:</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;letter&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#4be6fa">str</span>(let)</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">if</span>&nbsp;<span style="color:#ffd500">"3"</span>&nbsp;<span style="color:#ff3399">in</span>&nbsp;letter&nbsp;<span style="color:#ff3399">or</span>&nbsp;<span style="color:#ffd500">"6"</span>&nbsp;<span style="color:#ff3399">in</span>&nbsp;letter&nbsp;<span style="color:#ff3399">or</span>&nbsp;<span style="color:#ffd500">"9"</span>&nbsp;<span style="color:#ff3399">in</span>&nbsp;letter:</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">for</span>&nbsp;i&nbsp;<span style="color:#ff3399">in</span>&nbsp;<span style="color:#4be6fa">range</span>(<span style="color:#4be6fa">len</span>(letter)):</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">if</span>&nbsp;<span style="color:#4be6fa">int</span>(letter[i])&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span><span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#c10aff">3</span>&nbsp;<span style="color:#ff3399">or</span>&nbsp;<span style="color:#4be6fa">int</span>(letter[i])&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span><span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#c10aff">6</span>&nbsp;<span style="color:#ff3399">or</span>&nbsp;<span style="color:#4be6fa">int</span>(letter[i])&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">=</span><span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#c10aff">9</span>:</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clap&nbsp;<span style="color:#0086b3"></span><span style="color:#ff3399">+</span><span style="color:#0086b3"></span><span style="color:#ff3399">=</span>&nbsp;<span style="color:#c10aff">1</span></div><div style="padding:0 6px; white-space:pre; line-height:130%"><span style="color:#4be6fa">print</span>(clap)</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;</div></div><div style="text-align:right;margin-top:-13px;margin-right:5px;font-size:9px;font-style:italic"><a href="http://colorscripter.com/info#e" target="_blank" style="color:#4f4f4ftext-decoration:none">Colored by Color Scripter</a></div></td><td style="vertical-align:bottom;padding:0 2px 4px 0"><a href="http://colorscripter.com/info#e" target="_blank" style="text-decoration:none;color:white"><span style="font-size:9px;word-break:normal;background-color:#4f4f4f;color:white;border-radius:10px;padding:1px">cs</span></a></td></tr></table></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <ul class="icons">
+            <li><a href="https://www.facebook.com/choi.jongwoo.1" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="https://www.instagram.com/tom_choi_sk/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        </ul>
+    </div>
+    <div class="copyright">
+        &copy; Untitled. All rights reserved.
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
