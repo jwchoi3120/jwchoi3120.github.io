@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<!--
+	Hielo by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+<head>
+    <title>MSU Freshman / 1학년</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body class="subpage">
+
+<!-- Header -->
+<header id="header">
+    <div class="logo"><a href="index.html">Tom Choi's Website <span> 최종우 </span></a></div>
+    <a href="#menu">Menu</a>
+</header>
+
+<!-- Nav -->
+<nav id="menu">
+    <ul class="links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio / 자기소개서</a></li>
+        <li><a href="freshman.html">MSU(2017 - 18)</a></li>
+        <li><a href="sophomore.html">MSU(2018 - 19)</a></li>
+        <li><a href="junior.html">MSU(2019 - 20)</a></li>
+		<li><a href="coding.html">Coding Problems / 코딩 문제들</a></li>
+		<li><a href="jongwoomeme.html">Jongwoo Meme / 종우밈</a></li>
+    </ul>
+</nav>
+
+<!-- One -->
+<section id="One" class="wrapper style3">
+    <div class="inner">
+        <header class="align-center">
+            <p>Photos / 사진들</p>
+            <h2>MSU Freshman / 1학년</h2>
+        </header>
+    </div>
+</section>
+
+<!-- Two -->
+<section id="two" class="wrapper style2">
+        <div id="instagram"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+
+        var token = "IGQVJWbDBiOFc5cEpnU05JTEJfdWFBNVVQWjczZAFRjV2dPcHFaUTQ5cUtfYW90VkswQTRyLVhqNmtBSUt4QUFZAUkFTb09hbi1WWkVxdG0zUUt6SUo3dDFkQUJCSEQ0ZAU1va2gyVDRiV19YbTdNcjZATMQZDZD";
+
+        /*
+            발급된 토큰은 장기 실행 액세스 토큰으로 60일간 사용이 가능합니다.
+            https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens
+
+            발급된 토큰은 만료일(60일)이내에 refresh_access_token혹은, 페이스북 개발자 센터내의 토큰 재발급을 통해 연장을 해주어야합니다.
+            https://developers.facebook.com/docs/instagram-basic-display-api/reference/refresh_access_token
+        */
+
+        $.ajax({
+            type: "GET",
+            dataType: "jsonp",
+            cache: false,
+            url: "https://graph.instagram.com/me/media?access_token=" + token + "&fields=id,caption,media_type,media_url,thumbnail_url,permalink",
+            success: function(response) {
+                console.log(response);
+                if (response.data != undefined && response.data.length > 0) {
+                    for(i = 0; i < 10; i++){
+                        if(response.data[i]){
+                            var item = response.data[i];
+                            var image_url = "";
+                            var post = "";
+
+                            if(item.media_type === "VIDEO"){
+                                image_url = item.thumbnail_url;
+                            }else{
+                                image_url = item.media_url;
+                            }
+
+                            post += '<div class="instagram_item instagram_item'+i+'">';
+                                post += '<a href="'+ item.permalink +'" target="_blank" rel="noopener noreferrer" style="background-image: url(' + image_url + ');">';
+                                    post += '<p>'+ item.caption +'</p>';
+                                post += '</a>';
+                            post += '</div>';
+
+                            $('#instagram').append(post);
+                        }else{
+                            // if no curent item
+                            show_fallback('#insta-item-'+i)
+                        }
+                    }
+                }else{
+                    // if api error
+                    show_fallback('.instagram-item')
+                }
+            },
+            error :function(){
+                // if http error
+                show_fallback('.instagram-item')
+            }
+
+        });
+
+        function show_fallback(el){
+            $(el).addClass('loaded fallback');
+        }
+
+    </script>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <ul class="icons">
+            <li><a href="https://www.facebook.com/choi.jongwoo.1" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="https://www.instagram.com/tom_choi_sk/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        </ul>
+    </div>
+    <div class="copyright">
+        &copy; Untitled. All rights reserved.
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
