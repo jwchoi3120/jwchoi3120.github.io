@@ -32,7 +32,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="" />
+    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/couple/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/couple/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/couple/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/couple/generic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/couple/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple/couple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple/firstdate.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +60,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="1bfQszjVz5XPp9shiIjHusukh7U" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,19 +82,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/couple" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\portfolio" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\couple" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\images" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -96,11 +116,13 @@
       <workItem from="1592052926299" duration="5915000" />
       <workItem from="1592104410166" duration="155000" />
       <workItem from="1592114913945" duration="3723000" />
+      <workItem from="1640693867851" duration="1850000" />
+      <workItem from="1640695786100" duration="3791000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -112,27 +134,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589074952948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589074952948" />
-    <state x="350" y="213" key="SettingsEditor" timestamp="1589021429960">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="350" y="213" key="SettingsEditor/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589021429960" />
-    <state x="441" y="302" key="Vcs.Push.Dialog.v2" timestamp="1589021092512">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="441" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589021092512" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1589077431579">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589077431579" />
   </component>
 </project>
