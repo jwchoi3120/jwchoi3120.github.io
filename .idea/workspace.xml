@@ -32,15 +32,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/couple/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/couple/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/couple/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/couple/generic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/couple/index.html" afterDir="false" />
+    <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/couple/couple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/couple/firstdate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/couple/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/dependabot/npm_and_yarn/browserslist-4.16.6" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,8 +114,16 @@
       <workItem from="1592104410166" duration="155000" />
       <workItem from="1592114913945" duration="3723000" />
       <workItem from="1640693867851" duration="1850000" />
-      <workItem from="1640695786100" duration="3791000" />
+      <workItem from="1640695786100" duration="4690000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1640702303587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640702303588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +142,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
