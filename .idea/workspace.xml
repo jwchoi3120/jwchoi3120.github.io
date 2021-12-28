@@ -75,12 +75,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -101,7 +102,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="" />
+      <changelist id="" name="Default Changelist" comment="" />
       <created>1589020878048</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -114,7 +115,7 @@
       <workItem from="1592104410166" duration="155000" />
       <workItem from="1592114913945" duration="3723000" />
       <workItem from="1640693867851" duration="1850000" />
-      <workItem from="1640695786100" duration="4690000" />
+      <workItem from="1640695786100" duration="5095000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1640702303587</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640702303588</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1640703054084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640703054085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
