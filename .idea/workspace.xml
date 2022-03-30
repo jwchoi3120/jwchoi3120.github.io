@@ -79,6 +79,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -88,11 +89,11 @@
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sumin/images" />
       <recent name="$PROJECT_DIR$/couple/images" />
       <recent name="$PROJECT_DIR$/couple" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io" />
       <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\portfolio" />
-      <recent name="C:\Users\user\Desktop\웹사이트\jwchoi3120.github.io\couple" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +117,10 @@
       <workItem from="1640695786100" duration="6504000" />
       <workItem from="1640734124620" duration="2928000" />
       <workItem from="1641472625629" duration="18000" />
-      <workItem from="1641473449840" duration="1764000" />
+      <workItem from="1641473449840" duration="2517000" />
+      <workItem from="1641476171264" duration="614000" />
+      <workItem from="1643356495351" duration="1006000" />
+      <workItem from="1648646403100" duration="3023000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1640702303587</created>
@@ -167,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641455398876</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changed index.html">
+      <created>1641476035761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641476035761</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed index.html">
+      <created>1643358119296</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643358119297</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed index.html">
+      <created>1648649383951</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648649383952</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
