@@ -70,6 +70,7 @@
   <component name="ProjectId" id="1bfQszjVz5XPp9shiIjHusukh7U" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -125,7 +126,7 @@
       <workItem from="1641476171264" duration="614000" />
       <workItem from="1643356495351" duration="1006000" />
       <workItem from="1648646403100" duration="5562000" />
-      <workItem from="1648732019657" duration="1771000" />
+      <workItem from="1648732019657" duration="3182000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1640702303587</created>
@@ -211,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648649954019</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changed index.html">
+      <created>1648733879333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648733879333</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
