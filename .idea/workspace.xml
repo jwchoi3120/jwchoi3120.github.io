@@ -33,7 +33,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b18e59-ff4d-4694-8be3-c4ba1892b867" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/sumin/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumin/images/IMG_5592.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumin/images/IMG_5595.MOV" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumin/images/IMG_5602.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/sumin/images/IMG_5602.JPG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +124,8 @@
       <workItem from="1641473449840" duration="2517000" />
       <workItem from="1641476171264" duration="614000" />
       <workItem from="1643356495351" duration="1006000" />
-      <workItem from="1648646403100" duration="3501000" />
+      <workItem from="1648646403100" duration="5562000" />
+      <workItem from="1648732019657" duration="1771000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1640702303587</created>
@@ -199,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648649498296</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changed index.html">
+      <created>1648649954019</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648649954019</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
